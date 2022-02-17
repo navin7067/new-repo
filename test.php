@@ -8,6 +8,5 @@
 </head>
 <body>
     <h1>Hello</h1>
-    <h2>let see</h2>
 </body>
 </html>
